@@ -28,19 +28,19 @@ Glad to see here 😍🧡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ashwani-kumar-48b28721a/">
+<a href="https://www.linkedin.com/in/ashwani-kumar-48b28721a/" target="blank">
 <img src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
 </a>
-<a href="mailto:ashwanimaurya856292@gmail.com">
+<a href="mailto:ashwanimaurya856292@gmail.com" target="blank">
 <img src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
 </a>
-<a href="https://twitter.com/Ashwani89142771">
+<a href="https://twitter.com/Ashwani89142771" target="blank">
 <img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
 </a>
-<a href="https://www.instagram.com/ashwani.maurya.1213986/">
+<a href="https://www.instagram.com/ashwani.maurya.1213986/" target="blank">
 <img src="https://img.shields.io/badge/Instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
 </a>
-  <a href="https://www.facebook.com/ashwani.maurya.1213986">
+  <a href="https://www.facebook.com/ashwani.maurya.1213986" target="blank">
 <img src="https://logos-world.net/wp-content/uploads/2020/04/Facebook-Logo-2015-present.jpg" alt="facebook" width="130" height="28" />
 </a>
 </p>
